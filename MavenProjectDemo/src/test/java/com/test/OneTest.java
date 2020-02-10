@@ -7,7 +7,7 @@ public class OneTest {
 	@Test
 	public void method2()
 	{
-		
+	
 	System.out.println("Second Test");
 	}
 }
