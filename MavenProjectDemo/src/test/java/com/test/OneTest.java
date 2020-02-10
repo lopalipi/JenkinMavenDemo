@@ -8,6 +8,6 @@ public class OneTest {
 	public void method2()
 	{
 		
-		System.out.println("Second Test");
+	System.out.println("Second Test");
 	}
 }
